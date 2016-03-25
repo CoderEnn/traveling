@@ -3,4 +3,4 @@
 //
 
 //#import <AVOSCloud/AVOSCloud.h>
-#import "AVOSCloudSNS.h"
+//#import "AVOSCloudSNS.h"
